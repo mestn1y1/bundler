@@ -1,3 +1,47 @@
 .customer {
-  background-color: #beef;
+  background: linear-gradient(99deg, #00c5eb 10%, #b544fe 100%);
+  padding: 80px 0;
+  
+}
+
+.customer-title {
+  font-weight: 700;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.customer-img {
+  margin: 0 auto;
+margin-bottom: 20px;
+border-radius: 100%;
+box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.25);
+}
+
+.customer-subtitle {
+  font-weight: 700;
+    font-size: 18px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.customer-job-text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.71429;
+    text-align: center;
+    color: #000;
+    margin-bottom: 40px;
+}
+
+.customer-text {
+  font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: #000;
+    max-width: 886px;
+    margin: 0 auto;
 }

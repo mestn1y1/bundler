@@ -1,3 +1,45 @@
-.video {
-  background-color: #f09a9a;
+.video-serhii {
+  width: 1278px;
+  height: 402px;
+  background-color: #06071b;
+  padding: 60px 121px 60px 16px;
+}
+
+.video-serhii-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.video-serhii-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #fff;
+  width: 479px;
+  height: 95px;
+  margin-bottom: 40px;
+}
+
+.video-serhii-div {
+  display: flex;
+  gap: 161px;
+}
+
+.video-serhii-list {
+  display: flex;
+  gap: 20px;
+}
+
+.ios-icon {
+  border-radius: 50%;
+}
+
+.icon-android {
+  border-radius: 50%;
+}
+
+.video-serhii-icon {
 }

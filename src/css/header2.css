@@ -1,4 +1,8 @@
-.header {
-  padding: 20px 0;
-  background-color: aqua;
+.nav-logo {
+    width: 139px;
+    height: 34px;
+    top: 45px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
 }
